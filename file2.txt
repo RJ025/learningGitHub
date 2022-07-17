@@ -1,1 +1,2 @@
 coding!
+terminal is black window
